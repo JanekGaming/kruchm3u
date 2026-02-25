@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TPTV",tptv
+rtmp://it-north-mln.livepush.io/live/rtmp_26ad71a01a4e43bd8168da2aae2f568c
