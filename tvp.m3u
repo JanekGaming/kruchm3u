@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 ,TVP 1
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp1.m3u8
+#EXTINF:-1 ,TVP 2
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp2.m3u8
+#EXTINF:-1 ,TVP ABC
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpabc.m3u8
+#EXTINF:-1 ,TVP 3 Warszawa
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp3warszawa.m3u8
